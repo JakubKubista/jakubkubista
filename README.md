@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi folks 👋
+- :shipit: I'm currently working for PwC as a business developer during the day and as a software consultant during the night
+- 💬 Ask me for functional architecture, FE (JS - React, Vue, Angular, Node) or project planning/budgeting consultations
+- :point_right: See more at http://jakubkubista.com/
 
 <!--
 **JakubKubista/jakubkubista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Emoji list:
+https://gist.github.com/rxaviers/7360908
 -->
