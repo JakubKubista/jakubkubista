@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-:shipit: Business developer at PwC during the day and a software consultant during the night/weekends
+:shipit: Product Owner at PwC during the day and a software consultant during the night/weekends
 
 💬 Ask me for functional architecture, FE/BE (mainly JS - React, Vue, Angular, Node) or project planning/budgeting consultations
 
