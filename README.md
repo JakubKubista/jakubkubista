@@ -2,7 +2,7 @@
 
 :shipit: Product Owner & Business Developer at PwC with 8 years of experience in software development
 
-🌈 My moto is "keeping things simple and effective" 
+🌈 My moto is "keep it simple and effective" 
 
 💬 Ask me about software development consultancy (strategy, project management, functional architecture, frontend/backend)
 
