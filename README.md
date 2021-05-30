@@ -2,9 +2,11 @@
 
 :shipit: Product Owner & Business Developer at PwC with 8 years of experience in software development
 
-💬 Ask me for software development consultancy (strategy, project management, functional architecture, frontend/backend)
+🌈 My moto is "keeping things simple and effective" 
 
-🌈 My moto is "keeping things simple and effective" and my tech stack includes mainly JavaScript, React Native, Vue.js, Node.js, Python, Docker
+💬 Ask me about software development consultancy (strategy, project management, functional architecture, frontend/backend)
+
+💾 My tech stack includes mainly JavaScript, React Native, Vue.js, Node.js, Python, Docker
 
 👉 See more at http://jakubkubista.com/
 
