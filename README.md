@@ -1,10 +1,12 @@
 ### Hi folks 👋
 
-:shipit: Product Owner at PwC during the day and a software consultant during the night/weekends
+:shipit: Product Owner & Business Developer at PwC with 8 years of experience in software development
 
-💬 Ask me for functional architecture, FE/BE (mainly JS - React, Vue, Angular, Node) or project planning/budgeting consultations
+💬 Ask me for software development consultancy (strategy, project management, functional architecture, frontend/backend)
 
-:point_right: See more at http://jakubkubista.com/
+🌈 My moto is "keeping things simple and effective" and my tech stack includes mainly JavaScript, React Native, Vue.js, Node.js, Python, Docker
+
+👉 See more at http://jakubkubista.com/
 
 <!--
 **JakubKubista/jakubkubista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
