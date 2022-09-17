@@ -1,10 +1,10 @@
 ### Hi folks 👋
 
-:shipit: Product Owner & Business Developer at PwC with 8 years of experience in software development
+:shipit: Tech consultant with 8 years of experience in software development
 
 🌈 My moto is "keep it simple and effective" 
 
-💬 Ask me about software development consultancy (strategy, project management, functional architecture, frontend/backend)
+💬 Ask me about software development consultancy (project management/agile, functional architecture, frontend/backend, CI/CD)
 
 💾 My tech stack includes mainly JavaScript, React Native, Vue.js, Node.js, Python, Docker
 
