@@ -1,10 +1,10 @@
 ### Hi folks 👋
 
-:shipit: Tech consultant with 8 years of experience in software development
+:shipit: Tech consultant with 9 years of experience in software development
 
 🌈 My moto is "keep it simple and effective" 
 
-💬 Ask me about software development consultancy (project management/agile, functional architecture, frontend/backend, CI/CD)
+💬 Ask me about technology consulting services such as Tech Stack Optimization, Functional Architecture or Full-stack Software Engineering
 
 💾 My tech stack includes mainly JavaScript, React Native, Vue.js, Node.js, Python, Docker
 
