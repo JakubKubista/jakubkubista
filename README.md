@@ -4,7 +4,7 @@
 
 🌈 My moto is "keep it simple and effective" 
 
-💬 Ask me about technology consulting services such as Tech Stack Optimization, Functional Architecture or Full-stack Software Engineering
+💬 Ask me for web development or technology consulting about data organization and related transfer to the cloud, safety, or tech stack optimization
 
 💾 My tech stack includes mainly JavaScript, React Native, Vue.js, Node.js, Python, Docker
 
