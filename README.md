@@ -1,10 +1,10 @@
 ### Hi folks 👋
 
-:shipit: 10 years of experience in software development
+:shipit:   10 years of experience in software development
 
-🌈 My moto is "keep it simple and effective" 
+🌈   My moto is "keep it simple and effective" 
 
-👉 See more at utima.cz | jakubkubista.com | codebiters.cz
+👉   See more at [utima.cz](https://utima.cz) | [jakubkubista.com](https://jakubkubista.com) | [codebiters.cz](https://codebiters.cz)
 
 <!--
 **JakubKubista/jakubkubista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
