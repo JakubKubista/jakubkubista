@@ -1,14 +1,10 @@
 ### Hi folks 👋
 
-:shipit: Tech consultant with 9 years of experience in software development
+:shipit: 10 years of experience in software development
 
 🌈 My moto is "keep it simple and effective" 
 
-💬 Ask me for web development or technology consulting about data organization and related transfer to the cloud, safety, or tech stack optimization
-
-💾 My tech stack includes mainly JavaScript, React Native, Vue.js, Node.js, Python, Docker
-
-👉 See more at http://jakubkubista.com/
+👉 See more at utima.cz | jakubkubista.com | codebiters.cz
 
 <!--
 **JakubKubista/jakubkubista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
