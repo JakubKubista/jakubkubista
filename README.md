@@ -4,7 +4,7 @@
 
 🌈 &nbsp;&nbsp;&nbsp;My moto is "keep it simple and effective" 
 
-👉 &nbsp;&nbsp;&nbsp;See more at <a href="https://utima.cz" target="_blank">utima.cz</a> | <a href="https://jakubkubista.com" target="_blank">jakubkubista.com</a> | <a href="https://codebiters.cz" target="_blank">codebiters.cz</a>
+👉 &nbsp;&nbsp;&nbsp;See more at <a href="https://utima.cz" target="_blank">utima.cz</a> | <a href="https://codebiters.cz" target="_blank">codebiters.cz</a>
 
 <!--
 **JakubKubista/jakubkubista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
