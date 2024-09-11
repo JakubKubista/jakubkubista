@@ -1,10 +1,10 @@
 ### Hi folks 👋
 
-:shipit: &nbsp;&nbsp;&nbsp;10 years of experience in software development
+:shipit: &nbsp;&nbsp;&nbsp;Focused on custom software development and AI for startups
 
-🌈 &nbsp;&nbsp;&nbsp;My moto is "keep it simple and effective" 
+🌈 &nbsp;&nbsp;&nbsp;My motto is "keep lean" which means do only must-have scope in simple and effective way
 
-👉 &nbsp;&nbsp;&nbsp;See more at <a href="https://utima.cz" target="_blank">utima.cz</a> | <a href="https://codebiters.cz" target="_blank">codebiters.cz</a>
+👉 &nbsp;&nbsp;&nbsp;See more at <a href="https://utima.cz" target="_blank">utima.cz</a> | <a href="https://kanbu.au" target="_blank">kanbu.ai</a> | <a href="https://codebiters.cz" target="_blank">codebiters.cz</a>
 
 <!--
 **JakubKubista/jakubkubista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
