@@ -1,10 +1,10 @@
 ### Hi folks 👋
 
-:shipit: &nbsp;&nbsp;&nbsp;Focused on AI agents, knowledge bases, vibecoding and connections with specialized custom software developmers.
+:shipit: &nbsp;&nbsp;&nbsp; Focused on AI agents, knowledge bases, vibecoding and connections with specialized custom software developers.
 
-🌈 &nbsp;&nbsp;&nbsp;My motto is "keep lean" which means do only must-have scope in simple and effective way
+🌈 &nbsp;&nbsp;&nbsp; My motto is "keep lean" which means do only must-have scope in simple and effective way.
 
-👉 &nbsp;&nbsp;&nbsp;See more at <a href="https://jakubkubista.com/en" target="_blank">jakubkubista.com</a> | <a href="https://utima.cz/en" target="_blank">utima.cz</a> | <a href="https://kanbu.ai/en" target="_blank">kanbu.ai</a> | <a href="https://codebiters.cz" target="_blank">codebiters.cz</a>
+👉 &nbsp;&nbsp;&nbsp; See more at <a href="https://jakubkubista.com/en" target="_blank">jakubkubista.com</a> | <a href="https://utima.cz/en" target="_blank">utima.cz</a> | <a href="https://kanbu.ai/en" target="_blank">kanbu.ai</a> | <a href="https://codebiters.cz" target="_blank">codebiters.cz</a>
 
 <!--
 **JakubKubista/jakubkubista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
